@@ -1,0 +1,17 @@
+html,
+body {
+    height: 100%;
+}
+body {
+    background: url("./../images/bg_web.jpg") 0 0 no-repeat;
+    -webkit-background-size:  cover;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.haze {
+    background: rgba(255, 255, 255, 0.85);
+}
+.container-fluid {
+    padding: 0;
+}
